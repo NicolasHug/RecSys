@@ -1,4 +1,4 @@
 # Sphinx
-docs/build
+doc/build
 
 *.swp
